@@ -18,3 +18,4 @@
 |Day 11| 2D Arrays| [Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-2d-arrays/download_pdf?language=English)|[Java](https://github.com/elektroyazilim/HackerRank/blob/main/daysofcode/Day11_2DArrays.java)|
 |Day 12| Outstanding Inheritance |[Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-inheritance/download_pdf?language=English)|[Java](https://github.com/elektroyazilim/HackerRank/blob/main/daysofcode/Day12Inheritance.java)|
 |Day 13|Abstract Classes|[Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-abstract-classes/download_pdf?language=English)|[Java](https://github.com/elektroyazilim/HackerRank/blob/main/daysofcode/Day13AbstractClasses.java)|
+|Day 14| Scope|[Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-scope/download_pdf?language=English)|[Java](https://github.com/elektroyazilim/HackerRank/blob/main/daysofcode/Day14Scope.java)|
