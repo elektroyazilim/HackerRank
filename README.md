@@ -20,3 +20,4 @@
 |Day 13|Abstract Classes|[Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-abstract-classes/download_pdf?language=English)|[Java](https://github.com/elektroyazilim/HackerRank/blob/main/daysofcode/Day13AbstractClasses.java)|
 |Day 14| Scope|[Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-scope/download_pdf?language=English)|[Java](https://github.com/elektroyazilim/HackerRank/blob/main/daysofcode/Day14Scope.java)|
 |Day 15| Linked List|[Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-linked-list/download_pdf?language=English)|[Java](https://github.com/elektroyazilim/HackerRank/blob/main/daysofcode/Day15LinkedList.java)|
+|Day 16|Exceptions - String to Integer|[Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-exceptions-string-to-integer/download_pdf?language=English)|[Java](https://github.com/elektroyazilim/HackerRank/blob/main/daysofcode/Day16ExceptionsStringtoInteger.java)|
