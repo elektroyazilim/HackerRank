@@ -26,3 +26,4 @@
 |Day 19|Interfaces|[Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-interfaces/download_pdf?language=English)|[Java](https://github.com/elektroyazilim/HackerRank/blob/main/daysofcode/Day19Interfaces.java)|
 |Day 20|Sorting|[Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-sorting/download_pdf?language=English)|[Java](https://github.com/elektroyazilim/HackerRank/blob/main/daysofcode/Day20Sorting.java)|
 |Day 21|Generics|[Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-generics/download_pdf?language=English)|[Java](https://github.com/elektroyazilim/HackerRank/blob/main/daysofcode/Day21Generics.java)|
+|Day 22|Binary Search Trees|[Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-binary-search-trees/download_pdf?language=English)|[Java](https://github.com/elektroyazilim/HackerRank/blob/main/daysofcode/Day22BinarySearchTrees.java)|
